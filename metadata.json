@@ -1,0 +1,6 @@
+{
+  "name": "ApexResolve",
+  "description": "High-fidelity diagnostic engine for automated log analysis and root-cause resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
